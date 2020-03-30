@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvingut al blog de Joan Pere Gabarre
 
 You can use the [editor on GitHub](https://github.com/JPGabarre/StaticWebSiteJP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Lista JP 1
+- Lista JP 1
 
 1. Numbered
 2. List
